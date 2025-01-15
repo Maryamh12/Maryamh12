@@ -1,8 +1,7 @@
 
 ## Hi I'm Maryam, welcome! 👋
 
-I am a Software Engineer based in London, , with proficiency in: JavaScript | Python | HTML | CSS. I have recently completed bootcamps at General Assembly and Just IT.
+A highly motivated individual with a strong passion for Computer Science and a keen interest in software technologies, proficient in JavaScript, Python, HTML, and CSS. Recently completed intensive bootcamps at General Assembly and Just IT, gaining hands-on experience in software development, problem-solving, and collaborative projects.
 
-🌱 I'm passionate about learning new technologies and continuously improving my skills. Feel free to explore my projects and connect with me!
-Check out some of my projects below:
+🌱 Dedicated to exploring new technologies, creating innovative solutions, and continuously enhancing technical skills. Actively seeking opportunities to collaborate and share knowledge within the tech community. Feel free to explore the projects below and connect!
 
