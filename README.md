@@ -12,6 +12,5 @@ A highly motivated individual with a strong passion for **Computer Science** and
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryamh12&layout=compact)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Maryamh12)
+
 
