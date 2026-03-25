@@ -6,6 +6,10 @@ A highly motivated individual with a strong passion for **Computer Science** and
 🌱 Dedicated to exploring new technologies, creating innovative solutions, and continuously enhancing technical skills. Actively seeking opportunities to collaborate and share knowledge within the tech community. Feel free to explore the projects below and connect!
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maryamh12&color=blue" />
+</p>
+
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Maryamh12&show_icons=true)
 
